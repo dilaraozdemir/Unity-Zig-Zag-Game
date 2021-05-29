@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/week8/week8.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
